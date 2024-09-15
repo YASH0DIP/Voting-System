@@ -1,5 +1,5 @@
 
-# 📚 Online Voting System
+# 🗃️ Online Voting System
 
 The ultimate **Goal** of this project is to help school and colleges class teachers for selecting their **Class Representative (CR)** by conducting election in each class.
 
